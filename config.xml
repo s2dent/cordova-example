@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.megster.battery" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Battery Test</name>
-    <gap:plugin name="cordova-plugin-ble-central" source="npm" />
-    <preference name="phonegap-version" value="cli-6.1.0" />
     <description>
         Cordova Bluetooth Plugin to read Battery Service
     </description>
